@@ -32,3 +32,7 @@ this is an unordered list
 ## links
 
 This is a link to [my portfolio](https://www.artstation.com/jeradbeauregard)
+
+## images
+
+![This is an image](markdownImage.png)

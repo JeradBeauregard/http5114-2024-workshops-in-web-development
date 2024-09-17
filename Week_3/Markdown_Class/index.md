@@ -36,3 +36,19 @@ This is a link to [my portfolio](https://www.artstation.com/jeradbeauregard)
 ## images
 
 ![This is an image](markdownImage.png)
+
+## code
+
+We can put inline code using a tic.
+
+to add an image use `<img>` tag. use tic top left of keyboard not quotes
+use three tics for multi-line code
+
+
+include language next to intro tics for multi-line code, may have to look up language name. will colour code when working
+
+```javascript
+function test(){
+    console.log("test");
+}
+```

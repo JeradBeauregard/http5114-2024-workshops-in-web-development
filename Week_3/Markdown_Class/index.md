@@ -7,3 +7,10 @@ Headings--
 # heading 1
 ## heading 2
 ### heading 3
+
+
+**bold**
+
+_italics_
+
+**_bold and italics_**

@@ -52,3 +52,11 @@ function test(){
     console.log("test");
 }
 ```
+
+## tables
+
+| Language | Rating |
+|----------|--------|
+| HTML     |   5    |
+| CSS      |   9    |
+|JavaScript|   7    |

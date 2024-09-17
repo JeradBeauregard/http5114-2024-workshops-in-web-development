@@ -14,3 +14,17 @@ Headings--
 _italics_
 
 **_bold and italics_**
+
+This is an ordered list
+
+1. item one
+2. item two
+3. item three
+4. item four
+
+this is an unordered list
+
+- item one
+- item two
+- item three
+- item four
